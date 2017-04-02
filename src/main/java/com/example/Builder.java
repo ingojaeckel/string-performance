@@ -1,6 +1,6 @@
 package com.example;
 
-public class App {
+public class Builder {
 	private static final String A = "a";
 	private static final String B = "bb";
 	private static final String C = "cccc";
